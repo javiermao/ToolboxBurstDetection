@@ -1,4 +1,4 @@
-Python toobox for Burst Detection
+# Toolbox Burst Detection (TBD)
 
 This a toolbox of Pyhton functions for the detection and analysis of bursts in neural signals.
 
