@@ -1,4 +1,4 @@
-x for Burst Detection
+Python toobox for Burst Detection
 
 This a toolbox of Pyhton functions for the detection and analysis of bursts in neural signals.
 
@@ -7,6 +7,8 @@ This a toolbox of Pyhton functions for the detection and analysis of bursts in n
 - [MNE Python](https://mne.tools/stable/index.html)
 
 - [Spectral Events toolbox](https://github.com/jonescompneurolab/SpectralEvents)
+
+- [hmmlearn] (hmmlearn)
 
 - Please, let me know if there are functions, code, or methods that are not properly acknowledged and I will amend it.
 
