@@ -13,6 +13,7 @@ This a toolbox of Pyhton functions for the detection and analysis of bursts in n
 - Please, let me know if there are functions, code, or methods that are not properly acknowledged and I will amend it.
 
 
+
 ## How to use TBD
 
 You first need to clone the repository using `git clone https ...`
@@ -27,7 +28,9 @@ sys.path.append('/YourPath/ToolboxBurstsDetection')
 import ToolboxBurstsDetection as TBD
 ```
 
+
+
 ## Data structure of the neural signals
 
-- One neural signals: 'numpy.ndarray' of shape (Nsamples,)
-- Nepochs of signals: 'numpy.ndarray' of shape (Nepochs,Nsamples)
+- One neural signals: `numpy.ndarray` of shape `(Nsamples,)`
+- Nepochs of signals: `numpy.ndarray` of shape `(Nepochs,Nsamples)`
